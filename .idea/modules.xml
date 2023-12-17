@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SocketsTCP/SocketsTCP/Ejemplo1/Ejemplo1.iml" filepath="$PROJECT_DIR$/SocketsTCP/SocketsTCP/Ejemplo1/Ejemplo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InetAddress.iml" filepath="$PROJECT_DIR$/InetAddress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Practica1/Practica1.iml" filepath="$PROJECT_DIR$/../Practica1/Practica1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocketsTCP/SocketsTCP/SocketsTCP.iml" filepath="$PROJECT_DIR$/SocketsTCP/SocketsTCP/SocketsTCP.iml" />
+    </modules>
+  </component>
+</project>
