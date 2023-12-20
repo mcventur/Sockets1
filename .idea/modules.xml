@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/SocketsTCP/SocketsTCP/Ejemplo1/Ejemplo1.iml" filepath="$PROJECT_DIR$/SocketsTCP/SocketsTCP/Ejemplo1/Ejemplo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/InetAddress.iml" filepath="$PROJECT_DIR$/InetAddress.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Practica1/Practica1.iml" filepath="$PROJECT_DIR$/../Practica1/Practica1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocketsTCP/SocketsTCP/Practica2/Practica2.iml" filepath="$PROJECT_DIR$/SocketsTCP/SocketsTCP/Practica2/Practica2.iml" />
       <module fileurl="file://$PROJECT_DIR$/SocketsTCP/SocketsTCP/SocketsTCP.iml" filepath="$PROJECT_DIR$/SocketsTCP/SocketsTCP/SocketsTCP.iml" />
     </modules>
   </component>

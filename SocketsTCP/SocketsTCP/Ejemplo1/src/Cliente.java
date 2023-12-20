@@ -5,8 +5,9 @@ import java.io.IOException;
 import java.net.Socket;
 
 public class Cliente {
-    private static final int NUM_PUERTO = 6000;
-    private static final String HOST = "localhost";
+    private final int NUM_PUERTO = 6000;
+
+    private final String HOST = "localhost";
 
     public Cliente() {
         //1 - Conectarse con el servidor. Con try-with-resources
